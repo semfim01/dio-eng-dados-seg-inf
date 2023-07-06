@@ -1,7 +1,7 @@
 import hashlib
 
 string = input('Digite o texto a ser gerado a hash:  ')
-menu = int(input('''### MENU - ESCOLHA O TIMP DE HASH ### 
+menu = int(input('''### MENU - ESCOLHA O TIPO DE HASH ### 
                 1) MD5          
                 2) SHA1
                 3) SHA256
